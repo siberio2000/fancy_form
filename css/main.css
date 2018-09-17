@@ -97,7 +97,7 @@ h1.logo {
   position: absolute;
   background: #b9d4ec;
   height: 10px;
-  width: 40%;
+  width: 0%;
   transition: width 0.6s ease-in-out; }
 
 .close #next-btn,
